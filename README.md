@@ -1,7 +1,6 @@
 # Portfolio of Zamrina
 *This portfolio is under construction*
 Welcome to my portfolio
-Please enjoy
 
 Here I will showcase:
 - PowerBi
